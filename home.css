@@ -2,6 +2,7 @@
 body {
    font: 15px Arial, sans-serif;
    margin: 0px;
+   background-color: rgb(71, 65, 65);
    background-position: center;
    background-size: cover; /* Ensures the entire image covers the screen */
    /* background-color: black; */
